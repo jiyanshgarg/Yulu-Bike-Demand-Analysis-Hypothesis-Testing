@@ -67,5 +67,10 @@ Yulu wants to understand:
 - Leverage sustainability-focused campaigns for brand growth
 
 --------
-Tableau Link :-
+
+Tableau Link :- https://public.tableau.com/app/profile/jiyansh.garg/viz/YuluBikeDemandAnalysis/Dashboard1
+
 --------
+### ***Interactive Dashboard***
+<img width="1919" height="1034" alt="Screenshot 2026-01-30 221716" src="https://github.com/user-attachments/assets/e001bbe0-3452-4c91-8de1-c285078ba396" />
+
